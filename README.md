@@ -38,5 +38,7 @@ Após isso, foi possivel formatar os dados para suas devidas %, deixando a visua
 
 #### 1.6 Finalização do tratamento inicial
 Após isso, uma breve formatação de tipos de células, as deixando com seus devidos tipos como texto, número ou porcentagem, e uma revisão a procura de erros foi feita, com ambas etapas prontas, a primeira etapa foi realizada com o tratamento inicial de dados finalizado, uma comparativo de ambas as etapas a seguir mostrando o antes e o depois:
+<img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/a696cd0e-d3f2-49d1-bbeb-88966505d9ef" />
+<img width="1920" height="1020" alt="Dados_Tratados" src="https://github.com/user-attachments/assets/456d6755-0ec3-404c-ba12-9b619c3373a4" />
 
 
