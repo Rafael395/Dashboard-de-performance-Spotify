@@ -1,5 +1,5 @@
-<img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/bcdcde60-2963-448d-a12d-8281ed9d12c4" /># Dashboard-de-performance-Spotify
- Repositório de um projeto de tratamento de dados de excel e criação de dashboard a partir de um dataset do Kaggle 
+# Dashboard-de-performance-Spotify
+Repositório de um projeto de tratamento de dados de excel e criação de dashboard a partir de um dataset do Kaggle 
 
 ## Cenário abordado
 Um cliente importou dados de performance de seu aplicativo de seu banco de dados e deseja que eles sejam tratados e que a partir deles uma dashboard seja criada a partir dos dados tratados, com ele tendo pedido uma feita a partir do Excel e outra a partir do Power Bi. Um dataset baixado a partir do Kaggle será utilizado como fonte de referencia neste trabalho.
@@ -13,4 +13,5 @@ Tratar os dados de forma que sejam legíveis em tabela, após isso criar duas da
 
 #### 1.1 Tratamento inicial dos dados
 Ao abrir o documento é possível notar que todos os dados estão em apenas uma linha
+<img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/f0cd7d46-1ae7-4829-b99e-5b68a7a1233a" />
 
