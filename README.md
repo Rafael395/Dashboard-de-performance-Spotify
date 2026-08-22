@@ -11,11 +11,14 @@ Tratar os dados de forma que sejam legíveis em tabela, após isso criar duas da
 
 ### 1º Etapa
 
+Focada na manipulação e tratamento inicial dos dados, organizando os dados importados em uma tabela e os preparando para primeira analise.
+
 #### 1.1 Tratamento inicial dos dados
 Ao abrir o documento é possível notar que todos os dados estão em apenas uma linha como na imagem a baixo:
 <img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/f0cd7d46-1ae7-4829-b99e-5b68a7a1233a" />
 
 Após isso, com um tratamento rápido utilizando a ferramenta de Texto para Coluna separando os dados em suas devidas linhas e colunas:
+<img width="1920" height="1020" alt="Dados_Pre_tratamento_separacao" src="https://github.com/user-attachments/assets/e4df730f-2cc9-46f0-a0e0-e70a29398b70" />
 
 
 Seguido por isso, utilizando a formatação como tabela os dados foram devidamente organizados, junto da adição de filtros:
