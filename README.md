@@ -25,9 +25,18 @@ Após isso, com um tratamento rápido utilizando a ferramenta de Texto para Colu
 Seguido por isso, utilizando a formatação como tabela os dados foram devidamente organizados, junto da adição de filtros:
 <img width="1920" height="1020" alt="Dados_pre_tratamento_tabela" src="https://github.com/user-attachments/assets/a23a391d-c61a-41a9-bbce-181b10ff9ff0" />
 
-#### 1.4 Tratamento inicial dos dados - Correção de valores
+#### 1.4 Tratamento inicial dos dados - Correção de valores (Formatação)
 Como pode ser visto na imagem anterior, os dados de % das streams de diversos artistas foi importado de maneira incorreta, porém, por ter tanto o valor total de streams quanto o valor delas em suas respectivas modalidades, embora o primeiro instinto fosse apenas criar uma fórmula de divisão básica, primeiro é preciso corrigir outro erro de importação, conforme os valores foram importados com ponto e não com vírgula, o Excel não os reconheceu como valores numéricos, e para resolver isso, utilizamos apenas de um localizar e substituir, ou pelo atalho Ctrl + U nas colunas desejadas dando o resultado como o demonstrado a seguir:
 <img width="1920" height="1020" alt="Dados_pre_tratamento_ponto_e_virgula" src="https://github.com/user-attachments/assets/25cf5ad9-d82c-4c66-85ea-2683fd15e103" />
 
 Gerando o seguinte resultado ao finalizar esta parte:
 <img width="1920" height="1020" alt="Dados_pre_tratamento_virgula_final" src="https://github.com/user-attachments/assets/d62044ca-83c8-4c7a-b4a6-159f95dd8712" />
+
+#### 1.5 Tratamento inicial dos dados - Correção de valores (Porcentagem)
+Após isso, foi possivel formatar os dados para suas devidas %, deixando a visualização inicial dos dados melhor, como mostrado na imagem a seguir:
+<img width="1920" height="1020" alt="Dados_pre_tratamento_porcentagem" src="https://github.com/user-attachments/assets/e2b77611-8fae-46f2-b5e3-7c7a03f5c1f3" />
+
+#### 1.6 Finalização do tratamento inicial
+Após isso, uma breve formatação de tipos de células, as deixando com seus devidos tipos como texto, número ou porcentagem, e uma revisão a procura de erros foi feita, com ambas etapas prontas, a primeira etapa foi realizada com o tratamento inicial de dados finalizado, uma comparativo de ambas as etapas a seguir mostrando o antes e o depois:
+
+
