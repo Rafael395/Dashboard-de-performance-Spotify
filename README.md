@@ -2,7 +2,7 @@
 Repositório de um projeto de tratamento de dados de excel e criação de dashboard a partir de um dataset do Kaggle 
 
 ## Cenário abordado
-Um cliente importou dados de performance de seu aplicativo de seu banco de dados e deseja que eles sejam tratados e que a partir deles uma dashboard seja criada a partir dos dados tratados, com ele tendo pedido uma feita a partir do Excel e outra a partir do Power Bi. Um dataset baixado a partir do Kaggle será utilizado como fonte de referencia neste trabalho.
+Um cliente estrangeiro importou dados de performance de seu aplicativo de seu banco de dados e deseja que eles sejam tratados e que a partir deles uma dashboard seja criada a partir dos dados tratados, com ele tendo pedido uma feita a partir do Excel e outra a partir do Power Bi, com tanto os dashboards quanto a planilha permanecendo em inglês. Um dataset baixado a partir do Kaggle será utilizado como fonte de referencia neste trabalho.
 
 ## Objetivo principal
 Tratar os dados de forma que sejam legíveis em tabela, após isso criar duas dashboards, uma em Microsoft Excel e outra em Microsoft PowerBi, assim deixando os dados presentes em boa apresentação para futura analise e leitura dos mesmos.
@@ -33,12 +33,16 @@ Gerando o seguinte resultado ao finalizar esta parte:
 <img width="1920" height="1020" alt="Dados_pre_tratamento_virgula_final" src="https://github.com/user-attachments/assets/d62044ca-83c8-4c7a-b4a6-159f95dd8712" />
 
 #### 1.5 Tratamento inicial dos dados - Correção de valores (Porcentagem)
-Após isso, foi possivel formatar os dados para suas devidas %, deixando a visualização inicial dos dados melhor, como mostrado na imagem a seguir:
+Após isso, foi possível formatar os dados para suas devidas %, deixando a visualização inicial dos dados melhor, como mostrado na imagem a seguir:
 <img width="1920" height="1020" alt="Dados_pre_tratamento_porcentagem" src="https://github.com/user-attachments/assets/e2b77611-8fae-46f2-b5e3-7c7a03f5c1f3" />
 
-#### 1.6 Finalização do tratamento inicial
+#### 1.6 Tratamento inicial de dados - Adição de elemento
+Agora vem o penúltimo passo, após fazer uma breve analise, é possível notar que embora nas colunas de reprodução colaborativas e solo tenham porcentagens que se complemente, as colunas de reprodução como artista principal e participante não tem a porcentagem, o que pode ser útil para uma analise de distinção seu um artista tem um maior número de reprodução em suas musicas como artista principal ou participante, sendo assim, adicionaremos essa coluna e já a deixaremos pronta, como mostrado a seguir:
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a57bff8e-73c6-4270-a6e3-f370f51b8cd2" />
+
+#### 1.8 Finalização do tratamento inicial
 Após isso, uma breve formatação de tipos de células, as deixando com seus devidos tipos como texto, número ou porcentagem, e uma revisão a procura de erros foi feita, com ambas etapas prontas, a primeira etapa foi realizada com o tratamento inicial de dados finalizado, uma comparativo de ambas as etapas a seguir mostrando o antes e o depois:
 <img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/a696cd0e-d3f2-49d1-bbeb-88966505d9ef" />
-<img width="1920" height="1020" alt="Dados_Tratados" src="https://github.com/user-attachments/assets/456d6755-0ec3-404c-ba12-9b619c3373a4" />
+
 
 
