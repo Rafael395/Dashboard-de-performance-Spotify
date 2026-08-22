@@ -40,9 +40,17 @@ Após isso, foi possível formatar os dados para suas devidas %, deixando a visu
 Agora vem o penúltimo passo, após fazer uma breve analise, é possível notar que embora nas colunas de reprodução colaborativas e solo tenham porcentagens que se complemente, as colunas de reprodução como artista principal e participante não tem a porcentagem, o que pode ser útil para uma analise de distinção seu um artista tem um maior número de reprodução em suas musicas como artista principal ou participante, sendo assim, adicionaremos essa coluna e já a deixaremos pronta, como mostrado a seguir:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a57bff8e-73c6-4270-a6e3-f370f51b8cd2" />
 
+#### 1.7 Tratamento inicial de dados - inconsistência encontrada
+Como foi possível se notar com maior claridade após a criação das colunas de % de Lead e Feature, existem inconsistência envolvendo os números de reproduções, e como este projeto envolve a simulação de um trabalho para um cliente exterior, não alterei os dados, adicionei mais duas colunas de revisão de dados na tabela, embora formatação condicional de dados também pudesse ter sido utilizada, preferi a criação de duas colunas por otimização.
+Ambas as colunas tem objetivos simples, a primeira "Warnings" realiza um cálculo no qual ele checa se Lead ou Feature estão superiores ao número total de reprodução, e caso estejam ele responde com "Inconsistency" e caso contrário apenas devolve um "OK", enquanto "Difference number" soma Lead e Feature e os subtrai do total, com números em vermelho indicando que a soma dos dois estava superior ao numero total e números em preto demonstrando que a soma estava inferior enquanto 0 representa o número ideal.
+Decidi por não alterar dados e optar por uma opção na qual eu reportaria para o cliente a diferença de dados, deixando assim para que a equipe interna do cliente responsável pelos dados os analisa-se.
+A imagem a baixo mostra as duas colunas:
+<img width="1920" height="1020" alt="Dados_pre_tratamento_avisos" src="https://github.com/user-attachments/assets/78da0f6d-1993-4401-ae79-742783a09146" />
+
 #### 1.8 Finalização do tratamento inicial
-Após isso, uma breve formatação de tipos de células, as deixando com seus devidos tipos como texto, número ou porcentagem, e uma revisão a procura de erros foi feita, com ambas etapas prontas, a primeira etapa foi realizada com o tratamento inicial de dados finalizado, uma comparativo de ambas as etapas a seguir mostrando o antes e o depois:
+Após isso, uma breve formatação de tipos de células, as deixando com seus devidos tipos como texto, número ou porcentagem, e uma nova revisão a procura de erros foi feita, com ambas etapas prontas, a primeira etapa foi realizada com o tratamento inicial de dados finalizado, uma comparativo de ambas as etapas a seguir mostrando o antes e o depois:
 <img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/a696cd0e-d3f2-49d1-bbeb-88966505d9ef" />
+<img width="1920" height="1020" alt="Dados_tratados" src="https://github.com/user-attachments/assets/646cb012-e751-414e-8433-e06a677909df" />
 
 
 
