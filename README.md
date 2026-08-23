@@ -92,6 +92,7 @@ Com tudo o que já foi dito, ficou claro a necessidade do cliente, por isso esco
 - Relação do número de inconsistências;
 - Relação do número de estreias de artistas por ano;
 - Relação da quantidade de artistas por gênero musical;
+
 Todos esse gráficos podem e serão filtrados por 3 possíveis filtros de segmentação de dados diferentes com base em 3 dados sendo eles: Pais de origem, gênero musical e sexo.
 Com isso, meu cliente terá gráficos simples e de fácil entendimento para que possa ter uma melhor analise e entendimento dos artistas em sua plataforma, conseguindo filtrar os dados por até 3 aspectos diferentes conforme sua necessidade e desejo.
 
