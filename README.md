@@ -81,7 +81,7 @@ Seguindo isto, o menu de pesquisa que eu recomendo terminará desta forma:
 ### 3º Etapa - Dashboards
 Agora, chegando na parte final, mas não menos importante, eu tenho um desafio, criar duas dashboards diferentes em sistemas distintos, uma no excel e outra no PowerBi, com uma sendo planejada para uso interno na analise de dados por meu cliente enquanto a outra tem como objetivo ser apresentada para investidores, com isso em mente, ambas tiveram pensamentos de criação diferentes, do qual abordarei melhor quando tratar cada uma em especifico.
 
-#### 3.1 - Dashboard de uso interno
+#### 3.1 - Dashboard Excel
 Está dashboard foi pedida com o objetivo de auxiliar o cliente internamente na análise de seus dados, sendo assim, dei um foco maior nos cantores em troca dos números de reprodução, sabendo que os números de reprodução são mais valiosos em uma apresentação para investidores, e para evitar que as duas dashboards apresentassem os mesmos dados, está dashboard irá tratar da parte mais interna e administrativa.
 
 ##### 3.1.2 - Lógica interna e escolha de campos
@@ -96,11 +96,32 @@ Com tudo o que já foi dito, ficou claro a necessidade do cliente, por isso esco
 Todos esse gráficos podem e serão filtrados por 3 possíveis filtros de segmentação de dados diferentes com base em 4 dados sendo eles: Pais de origem, gênero musical, linguagem e sexo.
 Com isso, meu cliente terá gráficos simples e de fácil entendimento para que possa ter uma melhor analise e entendimento dos artistas em sua plataforma.
 
-##### 3.1.2 - Resultado final
+##### 3.1.3 - Resultado final
 Primeiro criei uma planilha secundaria com as tabelas dinâmicas suplementares que dariam as devidas informações aos gráficos dinamicos, após realizar isso e finalizar a dashboard, gravei um gif para demonstrar o uso dos filtros e tirei uma print da dashboard, a seguir demonstram o resultado final da dashboard interna e do funcionamento dela e de seus filtros
 <img width="1920" height="1020" alt="Dashboard-excel" src="https://github.com/user-attachments/assets/a16bbc32-f5f1-4ed5-9927-8eb13ca837a3" />
 <img width="1920" height="1020" alt="Dashboard-excel-spotify" src="https://github.com/user-attachments/assets/6370a287-52dd-4bb3-aa88-13fe31f2c251" />
 
+#### 3.2 - Dashboard PowerBi
 
+##### 3.2.2 - Lógica interna e escolha de campos
 
+##### 3.2.3 - Resultado final
+
+### Resultado final - Comparativos
+Após a finalização das demais etapas, podemos enfim comparar o que foi entregue no inicio do projeto:
+<img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/76c261ef-cd45-42c1-a02c-c903203a0b1e" />
+
+Com o que foi feito até agora:
+
+## Habilidades Demonstradas:
+Procx, criação de Dashboard, gráfico dinâmico, tabela dinâmica, tratamento de dados, PowerBi, automatização de resultados, criação de menu de pesquisa, criação de planilha/tabela e importação de dados.
+
+## Sobre este projeto
+Neste trabalho foi utilizado um dataset publico do Kaggle para simulação de um banco de dados de pequeno porte de um cliente estrangeiro, link para o dataset: https://www.kaggle.com/datasets/srisyra02/spotify-music-artist-streaming-analytics
+
+## Minhas rede profissionais 
+Linkedin:
+Workana:
+99freelas:
+Upwork:
 
