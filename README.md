@@ -97,4 +97,10 @@ Todos esse gráficos podem e serão filtrados por 3 possíveis filtros de segmen
 Com isso, meu cliente terá gráficos simples e de fácil entendimento para que possa ter uma melhor analise e entendimento dos artistas em sua plataforma, conseguindo filtrar os dados por até 3 aspectos diferentes conforme sua necessidade e desejo.
 
 ##### 3.1.2 - Resultado final
-O gif a seguir demonstra o resultado final da dashboard interna e do funcionamento dela e de seus filtros
+O gif e imagem a seguir demonstram o resultado final da dashboard interna e do funcionamento dela e de seus filtros
+<img width="1920" height="1020" alt="Dashboard-excel" src="https://github.com/user-attachments/assets/a16bbc32-f5f1-4ed5-9927-8eb13ca837a3" />
+<img width="1920" height="1020" alt="Dashboard-excel-spotify" src="https://github.com/user-attachments/assets/6370a287-52dd-4bb3-aa88-13fe31f2c251" />
+
+
+
+
