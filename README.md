@@ -64,7 +64,7 @@ Após isso, utilizando-se de validação de dados, criei uma forma de pesquisa p
 <img width="1920" height="1020" alt="Menu_validacao" src="https://github.com/user-attachments/assets/7040fc1d-2a0f-42a1-b393-e7974472cc37" />
 
 #### 2.3 Menu de pesquisas - Configuração do retorno de dados
-Após isso, configurei a parte mais importante do menu de pesquisa, sendo ele o código de pesquisa em si, utilizei do procx, embora procv também pudesse ser utilizado, com o código ficando assim:
+Após isso, configurei a parte mais importante do menu de pesquisa, sendo ele o código de pesquisa em si, utilizei do procx, embora procv também pudesse ser utilizado e recomendado caso o documento vá ser usado em versões anteriores do Excel, o Procx dá maior liberdade por poder ser utilizado em todas as direções e ter uma estrutura mais sólida e flexível, com o código ficando assim:
 <img width="1920" height="1020" alt="Menu_procv" src="https://github.com/user-attachments/assets/1e9fcbde-cfa8-4b55-a176-c3ede96e339c" />
 
 #### 2.4 Menu de pesquisas - Configuração adição de gráficos
@@ -72,8 +72,8 @@ Como último passo, criei os 2 gráficos que serão utilizados junto deste menu,
 <img width="1920" height="1020" alt="Menu_grafico" src="https://github.com/user-attachments/assets/da999bec-89e5-4588-b198-0e0099c7a35f" />
 
 #### 2.5 Menu de pesquisas - Alternativa recomendada
-Embora tecnicamente o menu de pesquisa já esteja pronto para uso, eu recomendo pessoalmente que ele seja construído de outra forma, com a adição de uma coluna de ID na primeira tabela, é possível realizar a pesquisa de forma mais consistente e organizada, utilizei um id simples de 1 até o último número da planilha como exemplo, com este sendo o resultado:
+Embora tecnicamente o menu de pesquisa já esteja pronto para uso, eu recomendo pessoalmente que ele seja construído de outra forma, com a adição de uma coluna de ID na primeira tabela, é possível realizar a pesquisa de forma mais consistente e organizada, conforme ID's são únicos e mais fáceis de se controlar e digitar por geralmente limitarem a números enquanto nomes podem ter caracteres especiais, se repetir ou apenas serem muito parecidos, utilizei um id simples de 1 até o último número da planilha como exemplo, com este sendo o resultado:
 <img width="1920" height="1020" alt="Menu_id" src="https://github.com/user-attachments/assets/1a77df42-4125-43f3-930a-20fb5bdd0e04" />
 
 Seguindo isto, o menu de pesquisa que eu recomendo terminará desta forma:
-<img width="1920" height="1020" alt="Menu_pesquisa_id" src="https://github.com/user-attachments/assets/4dd4eae2-6b7d-4a2c-a24d-a0353ebb659d" />
+<img width="1920" height="1020" alt="Menu_pesquisa_id" src="https://github.com/user-attachments/assets/0493fe73-e2d0-4252-9148-88c068ff86d5" />
