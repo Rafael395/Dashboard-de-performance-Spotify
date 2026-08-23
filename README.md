@@ -2,10 +2,10 @@
 Repositório de um projeto de tratamento de dados de excel e criação de dashboard a partir de um dataset do Kaggle 
 
 ## Cenário abordado
-Um cliente estrangeiro importou dados de performance de seu aplicativo de seu banco de dados e deseja que eles sejam tratados e que a partir deles uma dashboard seja criada a partir dos dados tratados, com ele tendo pedido uma feita a partir do Excel e outra a partir do Power Bi, com tanto os dashboards quanto a planilha permanecendo em inglês. Um dataset baixado a partir do Kaggle será utilizado como fonte de referencia neste trabalho.
+Um cliente dos Estados Unidos me contatou com um pedido, ele tem um banco de dados simples para seu aplicativo de música, embora funcional, ele diz ter dificuldade para ler e analisar os dados no mesmo e pede para que eu os transforme em uma planilha e após isso crie duas dashboards com base nos dados apresentados, uma no próprio Excel para que ele consiga a ver e alterar por si só conforme trabalha na tabela, em uma em PowerBi na qual ele possa mostrar para seus colegas e investidores em apresentações. 
 
 ## Objetivo principal
-Tratar os dados de forma que sejam legíveis em tabela, após isso criar duas dashboards, uma em Microsoft Excel e outra em Microsoft PowerBi, assim deixando os dados presentes em boa apresentação para futura analise e leitura dos mesmos.
+Ao utilizar um dataset do site Kaggle (Link para o mesmo nas seções finais deste documento) com dados públicos fictícios do Spotify, eu tenho dois desafios principais a abordar, o primeiro sendo transformar dados importados de um banco de dados em uma tabela de Excel, e o segundo sendo a criação dos dashboards, com o primeiro tendo como objetivo ser um de uso pessoal para meu cliente, assim sendo mais simples e objetivo em suas informações, enquanto o segundo será utilizado pelo mesmo em apresentações e necessita de maiores detalhes no mesmo.
 
 ## Ações realizadas
 
@@ -68,7 +68,12 @@ Após isso, configurei a parte mais importante do menu de pesquisa, sendo ele o 
 <img width="1920" height="1020" alt="Menu_procv" src="https://github.com/user-attachments/assets/1e9fcbde-cfa8-4b55-a176-c3ede96e339c" />
 
 #### 2.4 Menu de pesquisas - Configuração adição de gráficos
-Como penúltimo passo, criei os 2 gráficos que serão utilizados junto deste menu, com eles atualizando automaticamente junto do menu de pesquisa e ficando da seguinte maneira:
+Como último passo, criei os 2 gráficos que serão utilizados junto deste menu, com eles atualizando automaticamente junto do menu de pesquisa e ficando da seguinte maneira:
 <img width="1920" height="1020" alt="Menu_grafico" src="https://github.com/user-attachments/assets/da999bec-89e5-4588-b198-0e0099c7a35f" />
 
+#### 2.5 Menu de pesquisas - Alternativa recomendada
+Embora tecnicamente o menu de pesquisa já esteja pronto para uso, eu recomendo pessoalmente que ele seja construído de outra forma, com a adição de uma coluna de ID na primeira tabela, é possível realizar a pesquisa de forma mais consistente e organizada, utilizei um id simples de 1 até o último número da planilha como exemplo, com este sendo o resultado:
+<img width="1920" height="1020" alt="Menu_id" src="https://github.com/user-attachments/assets/1a77df42-4125-43f3-930a-20fb5bdd0e04" />
 
+Seguindo isto, o menu de pesquisa que eu recomendo terminará desta forma:
+<img width="1920" height="1020" alt="Menu_pesquisa_id" src="https://github.com/user-attachments/assets/aa12c025-6cb9-4f36-b550-4e0f2e9f9740" />
