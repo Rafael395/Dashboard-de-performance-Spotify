@@ -77,3 +77,11 @@ Embora tecnicamente o menu de pesquisa já esteja pronto para uso, eu recomendo 
 
 Seguindo isto, o menu de pesquisa que eu recomendo terminará desta forma:
 <img width="1920" height="1020" alt="Menu_pesquisa_id" src="https://github.com/user-attachments/assets/0493fe73-e2d0-4252-9148-88c068ff86d5" />
+
+### 3º Etapa - Dashboards
+Agora, chegando na parte final, mas não menos importante, eu tenho um desafio, criar duas dashboards diferentes em sistemas distintos, uma no excel e outra no PowerBi, com uma sendo planejada para uso interno na analise de dados por meu cliente enquanto a outra tem como objetivo ser apresentada para investidores, com isso em mente, ambas tiveram pensamentos de criação diferentes, do qual abordarei melhor quando tratar cada uma em especifico.
+
+#### 3.1 - Dashboard de uso interno
+Está dashboard foi pedida com o objetivo de auxiliar o cliente internamente na análise de seus dados, sendo assim, dei um foco maior nos cantores em troca dos números de reprodução, sabendo que os números de reprodução são mais valiosos em uma apresentação para investidores, e para evitar que as duas dashboards apresentassem os mesmos dados, está dashboard irá tratar da parte mais interna e administrativa.
+
+##### 3.1.2 - Lógica interna e escolha de cambpos
