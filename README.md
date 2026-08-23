@@ -52,5 +52,23 @@ Após isso, uma breve formatação de tipos de células, as deixando com seus de
 <img width="1920" height="1020" alt="Dados_pre_tratamento" src="https://github.com/user-attachments/assets/a696cd0e-d3f2-49d1-bbeb-88966505d9ef" />
 <img width="1920" height="1020" alt="Dados_tratados" src="https://github.com/user-attachments/assets/646cb012-e751-414e-8433-e06a677909df" />
 
+### 2º Etapa - Menu de pesquisas
+Uma etapa mais curta porém essencial para a maioria das planilhas, nela criarei uma pequena planilha com menu de pesquisas e pequenos gráficos dinâmicos que demonstram informações úteis.
+
+#### 2.1 Menu de pesquisas - Configuração inicial
+A primeira parte do menu de pesquisas é a mais simples, nela criei um pequeno design, funcional e simples com o objetivo de entregar facilmente as informações desejadas, apenas o mandarei já feito por não ter nenhum tratamento ou comando utilizando no mesmo, sendo ele:
+<img width="1920" height="1020" alt="Menu_inicio" src="https://github.com/user-attachments/assets/4d1fdec8-1df7-464c-b0e0-b8432d4473e6" />
+
+#### 2.2 Menu de pesquisas - Configuração inicial (Pesquisa)
+Após isso, utilizando-se de validação de dados, criei uma forma de pesquisa por nome dos artistas de forma que apenas os nomes corretos possam ser escritos como na imagem a seguir:
+<img width="1920" height="1020" alt="Menu_validacao" src="https://github.com/user-attachments/assets/7040fc1d-2a0f-42a1-b393-e7974472cc37" />
+
+#### 2.3 Menu de pesquisas - Configuração do retorno de dados
+Após isso, configurei a parte mais importante do menu de pesquisa, sendo ele o código de pesquisa em si, utilizei do procx, embora procv também pudesse ser utilizado, com o código ficando assim:
+<img width="1920" height="1020" alt="Menu_procv" src="https://github.com/user-attachments/assets/1e9fcbde-cfa8-4b55-a176-c3ede96e339c" />
+
+#### 2.4 Menu de pesquisas - Configuração adição de gráficos
+Como penúltimo passo, criei os 2 gráficos que serão utilizados junto deste menu, com eles atualizando automaticamente junto do menu de pesquisa e ficando da seguinte maneira:
+<img width="1920" height="1020" alt="Menu_grafico" src="https://github.com/user-attachments/assets/da999bec-89e5-4588-b198-0e0099c7a35f" />
 
 
