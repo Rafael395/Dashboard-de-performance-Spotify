@@ -148,6 +148,15 @@ Após a finalização das demais etapas, podemos enfim comparar o que foi entreg
 
 Com o que foi feito até agora:
 
+<img width="1920" height="1020" alt="Menu_id" src="https://github.com/user-attachments/assets/07110740-f79e-47d3-9c07-fc79a7099911" />
+
+<img width="1920" height="1020" alt="Menu_pesquisa_id" src="https://github.com/user-attachments/assets/db6937a5-c92c-4f68-bfb3-6a8be16b6c48" />
+
+<img width="1920" height="1020" alt="Dashboard-excel" src="https://github.com/user-attachments/assets/cedf94d1-9ef6-44ab-aac1-75e99c88a4eb" />
+
+<img width="1920" height="980" alt="dashboard_powerbi" src="https://github.com/user-attachments/assets/1b50b511-e14c-4c39-8304-9c8f88c10bdb" />
+
+
 ## Habilidades Demonstradas:
 Procx, criação de Dashboard, gráfico dinâmico, tabela dinâmica, tratamento de dados, PowerBi, automatização de resultados, criação de menu de pesquisa, criação de planilha/tabela e importação de dados.
 
