@@ -167,5 +167,5 @@ Neste trabalho foi utilizado um dataset publico do Kaggle para simulação de um
 Linkedin: www.linkedin.com/in/rafael-n-galvao
 Workana: https://www.workana.com/freelancer/0175141c5bafbbaba62937ff1a5a39d5
 99freelas: https://www.99freelas.com.br/user/Rafael_NG
-Upwork:
+Upwork: https://www.upwork.com/freelancers/~014c069e6d97b007e3?mp_source=share
 Github: https://github.com/Rafael395
