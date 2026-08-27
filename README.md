@@ -164,8 +164,8 @@ Procx, criação de Dashboard, gráfico dinâmico, tabela dinâmica, tratamento 
 Neste trabalho foi utilizado um dataset publico do Kaggle para simulação de um banco de dados de pequeno porte de um cliente estrangeiro, link para o dataset: https://www.kaggle.com/datasets/srisyra02/spotify-music-artist-streaming-analytics
 
 ## Minhas rede profissionais 
-Linkedin:
-Workana:
-99freelas:
+Linkedin: www.linkedin.com/in/rafael-n-galvao
+Workana: https://www.workana.com/freelancer/0175141c5bafbbaba62937ff1a5a39d5
+99freelas: https://www.99freelas.com.br/user/Rafael_NG
 Upwork:
-
+Github: https://github.com/Rafael395
